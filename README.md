@@ -19,3 +19,5 @@ As now Covid-19 is making sever awareness issues.
 
 # Previews
 
+<img src="./Screenshots/1.JPG" >
+<img src="./Screenshots/2.JPG" >
